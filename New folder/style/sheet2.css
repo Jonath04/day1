@@ -1,0 +1,21 @@
+.box2{
+border: 2px solid rgb(15, 15, 23);
+/* margin-top: 20px;
+margin-left: 40%;
+margin-bottom: 20px;
+margin-right: 40%; */
+margin: 20px 40%;
+padding: 10px 50px ;
+
+background-color: aquamarine;
+background-image: url("https://cdn.pixabay.com/photo/2022/09/21/17/02/blue-background-7470781_640.jpg");
+}
+
+.box2 input{
+    border-radius: 0.5em;
+    height: 25px;
+}
+.box2 button{
+    margin-left: 65px;
+    border-radius: 0.5em;
+}
